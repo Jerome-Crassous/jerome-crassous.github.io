@@ -11,26 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 1987-1991 Student at ENS Lyon, Department of Material Sciences
+* 1990 Agrégation in Physics, Physics option
+* 1992-1995 PHD ENS Lyon, supervised by Elisabeth Charlaix
+* 2004 Habilitation to direct research, Université Lyon I
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 1991 Military service, scientist at Onera Meudon (Electromagnetic Waveguides)
+* 1997-1998 Post-doc, ETH Zürich, supervisor Prof. Peter Schurtenberger
+* 1995-2005 Assistant Professor at ENS Lyon (28th CNU section)
+* 2005- Associated Professor at the University of Rennes 1 (28th section CNU)
+* 2012- Full Professor
+* 2023 Visiting Professor EPFL (3 months, Flexlab-Pedro Reis group)
+* 2024 Visiting Professor PMMH (3 months)
   
 Skills
 ======
