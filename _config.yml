@@ -27,8 +27,8 @@ author:
   bio              : "Professor of Physics"
   location         : "France"
   employer         : "Rennes University"
-  uri              : "https://ipr.univ-rennes.fr/"
-  myLab            : "https://www.pmmh.espci.fr/-Accueil-"
+  uri              : "https://univ-rennes.fr/"
+  myLab            : "https://ipr.univ-rennes.fr/" #"https://www.pmmh.espci.fr/-Accueil-"
   email            : "jerome.crassous@univ-rennes.fr" 
 
   # Academic websites
