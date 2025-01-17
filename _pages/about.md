@@ -8,14 +8,7 @@ redirect_from:
 ---
 
 
-
 This site presents my research and teaching activities.
-
-
-
-
-
-
 
 <hr width="100%" color="black" size="5px"/>
 
@@ -29,7 +22,7 @@ I am interested in the mechanical properties of this type of system, by using nu
 
 See:
 * [Portfolio](/portfolio/) Photos of various systems that may be simulated with this algorithm.
-* [Frictional Discrete Elastic Rod](/publications/DER/) An algorithm to study Elastica with solid friction at contact points.
+* [Frictional Discrete Elastic Rod](/posts/DER/) An algorithm to study Elastica with solid friction at contact points.
 * [Publication on rods](/publications/mechanics of rods/) Related publications
 
 
@@ -45,13 +38,9 @@ See:
 # Plasticity of granular material.
 <img src="\images\bandeau_dws.jpg" width="500">
 
-* [Publication on Shear Bands](/publications/shear bands/) Plasticity fluctuations in shear bands. Analogy with seismology.
-* How shear bands form. 
+* [Shear Bands Fluctuations](/posts/shear band fluctuations/) Plasticity fluctuations in shear bands. Analogy with seismology.
+* [Shear Bands Formation](/posts/shear band formation/) How shear bands form. 
 * Multiple light scattering for the study of granular materials. 
-
-
-
-
 
 
 

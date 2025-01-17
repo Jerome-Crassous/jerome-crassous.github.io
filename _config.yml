@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/cond-mat?searchtype=author&query=Crassous,+J"
-  googlescholar    : "https://scholar.google.fr/citations?user=l2lZppYAAAAJ&hl=fr"
+  googlescholar    : "https://scholar.google.fr/citations?hl=fr&user=l2lZppYAAAAJ&view_op=list_works&sortby=pubdate"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-0877-5906"
   semantic         : # URL
